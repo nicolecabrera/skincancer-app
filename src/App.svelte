@@ -20,7 +20,7 @@
   </h2>
   <p>
     <a
-      href="https://github.com/nicolecabrera/skincancer-api.git"
+      href="https://skincancer-api.herokuapp.com/"
       target="_blank"
       rel="noreferrer noopener">
       This project
