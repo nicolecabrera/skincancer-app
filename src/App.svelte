@@ -20,7 +20,7 @@
   </h2>
   <p>
     <a
-      href=" https://skin-cancer-app.sensioai.now.sh/"
+      href="https://github.com/nicolecabrera/skincancer-api.git"
       target="_blank"
       rel="noreferrer noopener">
       This project
