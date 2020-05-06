@@ -20,7 +20,7 @@
   </h2>
   <p>
     <a
-      href="https://github.com/zeit/now/tree/master/examples/svelte"
+      href=" https://skin-cancer-app.sensioai.now.sh/"
       target="_blank"
       rel="noreferrer noopener">
       This project
